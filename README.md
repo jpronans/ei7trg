@@ -1,2 +1,2 @@
-# ei7trg.github.io
+# ei7trg
 Tipperary Amateur Radio Group website
